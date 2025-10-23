@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<pasta>
+    <bolognese>
+        <main-ingredient>
+            ground meat
+        </main-ingredient>
+
+        <time-to-make>
+            55 minutes
+        </time-to-make>
+
+        <origin>
+            Bologna
+        </origin>
+
+        <difficulty>
+            easy
+        </difficulty>
+    </bolognese>
+
+    <carbonara>
+        <main-ingredient>
+            sauce
+        </main-ingredient>
+
+        <time-to-make>
+            30 minutes
+        </time-to-make>
+
+        <origin>
+            Rome
+        </origin>
+
+        <difficulty>
+            hard
+        </difficulty>
+    </carbonara>
+
+    <puttanesca>
+        <main-ingredient>
+            tomatoes
+        </main-ingredient>
+
+        <time-to-make>
+            40 mins
+        </time-to-make>
+
+        <origin>
+            Naples
+        </origin>
+
+        <difficulty>
+            easy
+        </difficulty>
+    </puttanesca>
+
+    <fettuccine-alfredo>
+        <main-ingredient>
+            butter
+        </main-ingredient>
+
+        <time-to-make>
+            30 minutes
+        </time-to-make>
+
+        <origin>
+            Rome
+        </origin>
+
+        <difficulty>
+            medium
+        </difficulty>
+    </fettuccine-alfredo>
+
+    <mac-and-cheese>
+        <main-ingredient>
+            chedder cheese
+        </main-ingredient>
+
+        <time-to-make>
+            35 minutes
+        </time-to-make>
+
+        <origin>
+            Northern Europe
+        </origin>
+
+        <difficulty>
+            medium
+        </difficulty>
+    </mac-and-cheese>
+
+    <cajun>
+        <main-ingredient>
+            paprika
+        </main-ingredient>
+
+        <time-to-make>
+            30 minutes
+        </time-to-make>
+
+        <origin>
+            Louisiana
+        </origin>
+
+        <difficulty>
+            easy
+        </difficulty>
+    </cajun>
+</pasta>
