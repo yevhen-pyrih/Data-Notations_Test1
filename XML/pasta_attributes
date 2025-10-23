@@ -1,0 +1,109 @@
+<pasta>
+    <bolognese>
+        <main-ingredient is_liquid="false" pre-prepared="true">
+            ground meat
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="true">
+            55
+        </time-to-make>
+
+        <origin europe="true" countries="Italy">
+            Bologna
+        </origin>
+
+        <difficulty score="1" does_practice_help="yes">
+            easy
+        </difficulty>
+    </bolognese>
+
+    <carbonara>
+        <main-ingredient is_liquid="true" pre-prepared="true">
+            sauce
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="false">
+            30
+        </time-to-make>
+
+        <origin europe="true" countries="Italy">
+            Rome
+        </origin>
+
+        <difficulty score="3" does_practice_help="no">
+            hard
+        </difficulty>
+    </carbonara>
+
+    <puttanesca>
+        <main-ingredient is_liquid="false" pre-prepared="false"> 
+            tomatoes
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="true">
+            40
+        </time-to-make>
+
+        <origin europe="true" countries="Italy">
+            Naples
+        </origin>
+
+        <difficulty score="1" does_practice_help="no">
+            easy
+        </difficulty>
+    </puttanesca>
+
+    <fettuccine-alfredo>
+        <main-ingredient is_liquid="false" pre-prepared="false">
+            butter
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="false">
+            30
+        </time-to-make>
+
+        <origin europe="true" countries="Italy">
+            Rome
+        </origin>
+
+        <difficulty score="2" does_practice_help="yes">
+            medium
+        </difficulty>
+    </fettuccine-alfredo>
+
+    <mac-and-cheese>
+        <main-ingredient is_liquid="false" pre-prepared="false">
+            chedder cheese
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="true">
+            35
+        </time-to-make>
+
+        <origin europe="true" countries="Nordic countries">
+            Northern Europe
+        </origin>
+
+        <difficulty score="2" does_practice_help="yes">
+            medium
+        </difficulty>
+    </mac-and-cheese>
+
+    <cajun>
+        <main-ingredient is_liquid="false" pre-prepared="false">
+            paprika
+        </main-ingredient>
+
+        <time-to-make unit="minutes" above_30_min="false">
+            30
+        </time-to-make>
+
+        <origin europe="false" countries="USA">
+            Louisiana
+        </origin>
+
+        <difficulty score="1" does_practice_help="no">
+            easy
+        </difficulty>
+    </cajun>
+</pasta>
