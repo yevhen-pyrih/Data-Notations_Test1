@@ -1,0 +1,44 @@
+{
+    "SoftDrinksList":[{
+        "DrinkName":"Coca-Cola",
+        "DoesContainSugar":true,
+        "Manufacturer":"The Coca-Cola Company",
+        "CaloriesPer100ml":43,
+        "AvalaibleServingOptions":["Can", "Glass bottle", "Plastic bottle"],
+    },
+    {
+        "DrinkName":"Sprite",
+        "DoesContainSugar":true,
+        "Manufacturer":"The Coca-Cola Company",
+        "CaloriesPer100ml":47,
+        "AvalaibleServingOptions":["Can", "Glass bottle", "Plastic bottle"],
+    },
+    {
+        "DrinkName":"Fanta",
+        "DoesContainSugar":true,
+        "Manufacturer":"The Coca-Cola Company",
+        "CaloriesPer100ml":52,
+        "AvalaibleServingOptions":["Can", "Glass bottle", "Plastic bottle"],
+    },
+    {
+        "DrinkName":"Pepsi",
+        "DoesContainSugar":true,
+        "Manufacturer":"PepsiCo",
+        "CaloriesPer100ml":18,
+        "AvalaibleServingOptions":["Can", "Glass bottle", "Plastic bottle"],
+    },
+    {
+        "DrinkName":"7Up",
+        "DoesContainSugar":true,
+        "Manufacturer":"PepsiCo",
+        "CaloriesPer100ml":19,
+        "AvalaibleServingOptions":["Glass bottle", "Plastic bottle"],
+    },
+    {
+        "DrinkName":"Mirinda",
+        "DoesContainSugar":true,
+        "Manufacturer":"PepsiCo",
+        "CaloriesPer100ml":27,
+        "AvalaibleServingOptions":["Can", "Plastic bottle"],
+    }],
+}
